@@ -1,5 +1,5 @@
 {
-  "name": "ecs-fargate-spot-arm64",
+  "name": "cdk-ecs-fargate-spot-arm64",
   "scripts": {
     "build": "npx projen build",
     "bundle": "npx projen bundle",
